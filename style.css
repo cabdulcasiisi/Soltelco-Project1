@@ -1,0 +1,161 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav-bar {
+    display: flex;
+    justify-content: left;
+
+}
+
+.nav-bar ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-right: 20px;
+}
+
+.nav-bar ul li {
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 10px;
+
+}
+
+.nav-bar ul li a {
+    color: #770a81bb;
+    text-decoration: none;
+    font-size: 25px;
+    align-items: left;
+}
+
+.nav-bar img {
+    margin-right: 250px;
+    justify-content: left;
+    margin-left: 80px;
+    align-items: left;
+}
+
+.choose {
+
+    margin-top: -50px;
+    margin-bottom: 60px;
+    margin-top: 90px;
+    border: 3px solid #770a81bb;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.h2 {
+    color: #770a81bb;
+    margin-left: 100px;
+    font-size: 45px;
+}
+
+.p1 {
+    color: #770a81bb;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: #770a81bb;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+
+.esim {
+    display: inline-block;
+    width: 100px;
+    margin-top: -150px;
+    margin-left: 30px;
+    color: white;
+    text-align: center;
+
+}
+
+.box {
+    width: 2100px;
+    height: 100px;
+    background-color: #770a81bb;
+    margin-top: -40px;
+}
+
+.MIFI {
+    text-align: center;
+    margin-top: -150px;
+    margin-left: -650px;
+    background-color: #770a81bb;
+    color: white;
+}
+
+.SIM-DELIVERY {
+    text-align: center;
+    margin-top: -180px;
+    color: white;
+}
+
+.choose-mobile {
+    text-align: right;
+    margin-right: 180px;
+    margin-top: -85px;
+    color: white;
+}
+
+.why-choose {
+    text-align: right;
+    margin-right: 400px;
+    font-size: 30px;
+    color: #770a81bb;
+    margin-top: -300px;
+}
+
+.why-text {
+    text-align: right;
+    margin-left: 450px;
+    margin-right: 20px;
+    font-size: 20px;
+    color: #770a81bb;
+}
+
+.join-us {
+    text-align: right;
+    margin-left: 1000px;
+    font-size: 15px;
+    background-color: #770a81bb;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.video-container {
+    border: 3px solid #770a81bb;
+    margin-right: 780px;
+    padding-left: 50px;
+    padding-right: 200px;
+    margin-left: 80px;
+}
+
+.network {
+    margin-left: 160px;
+    border: 3px solid rgba(77, 68, 68, 0.212);
+    margin-right: 1100px;
+    margin-top: -50px;
+    margin-bottom: -70px;
+    padding-left: 20px;
+}
